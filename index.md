@@ -54,7 +54,7 @@
 
  - [ ] Mostrar meus projetos, videos, imagens (imagem natal da loja).
 
- - [ ] Falar sobre leilão de palavras chave. (PESQUISAR ANTES).
+ - [ ] Falar sobre leilão de palavras chave (define a posição em que os anúncios aparecerão e o valor gasto em cada clique dos interessados.).
 
 # Pesquisar:
 
