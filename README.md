@@ -46,7 +46,6 @@
 # Pesquisar:
 
 https://trello.com
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 # Fazer:
 
@@ -116,16 +115,16 @@ https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-gi
 ##  Inbound Marketing
 - Atrair clientes de forma mais receptiva
 - Atrair as pessoas certas e transformá-las em clientes
-- Gerar algo de valor para o cliente para que ele se interesse em entrar em 		contato com você (post, video, infografico, ebook
+- Gerar algo de valor para o cliente para que ele se interesse em entrar em contato com você (post, video, infografico, ebook
 - Saber quem são as pessoas que viram o seu anúncio (converter)
- - 	Exemplo: Para baixar o material clique no link e coloque seu email
+- Exemplo: Para baixar o material clique no link e coloque seu email
 ## Lead
 - se a pessoa deixar algum contato dela em troca de algum material do seu anuncio ela se torna um lead
 
 ## Outbound
 - Trazer clientes de forma mais ativa
 - Ir atrás do cliente (telefone, email)
-- Precisa conhecer o mercado e as dificuldades do cliente (o que realmente 		importa pra ele)
+- Precisa conhecer o mercado e as dificuldades do cliente (o que realmente importa pra ele)
 - é saber como estimular seu lead a entrar em contato com você
 
 
